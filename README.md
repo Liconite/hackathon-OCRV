@@ -1,6 +1,6 @@
 # hackathon-OCRV
 The solution of the case task within the framework of the hackathon from the company OCRV
-![alt text](https://static.tildacdn.com/tild3565-3635-4439-b934-383161343564/logo_ocrv.svg)
+![alt text](https://github.com/Liconite/hackathon-OCRV/blob/main/logo_ocrv.svg)
 
 ---
 Мы предлагаем своё видение рекомендательного сервиса системы дистанционного управления.<br>
